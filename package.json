@@ -1,0 +1,29 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "contact list app for app dev coe by piyali",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkamra/contactlistapp.git"
+  },
+  "keywords": [
+    "contactlistapp"
+  ],
+  "author": "piyali kamra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkamra/contactlistapp/issues"
+  },
+  "homepage": "https://github.com/pkamra/contactlistapp#readme"
+}
